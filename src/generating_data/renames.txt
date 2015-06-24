@@ -1,0 +1,10 @@
+﻿05a36f59-5468-4821-95d1-a9534a265e0b-->und\05a36f59-5468-4821-95d1-a9534a265e0b
+05a36f59-5468-4821-95d1-a9534a265e0b.0-->Макеты\ШаблонДанных.mxl
+05a36f59-5468-4821-95d1-a9534a265e0b.0-->und\05a36f59-5468-4821-95d1-a9534a265e0b.0
+295ad833-7586-474e-9fac-d03e649bda1b.0\info-->und\295ad833-7586-474e-9fac-d03e649bda1b.0\info
+295ad833-7586-474e-9fac-d03e649bda1b.0\text-->ObjectModule.txt
+7c2e8ec6-d64a-4fec-811e-0688dae1e46d-->und\7c2e8ec6-d64a-4fec-811e-0688dae1e46d
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
