@@ -8,11 +8,6 @@
 			<code>Русский</code>
 			<description>Русский</description>
 		</languageInfo>
-		<languageInfo>
-			<id>en</id>
-			<code>Английский</code>
-			<description>Английский</description>
-		</languageInfo>
 	</languageSettings>
 	<columns>
 		<size>10</size>
